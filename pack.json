@@ -1,9 +1,9 @@
 {
-    "Name": "test",
-    "Author": "Me",
-    "Description": "test",
+    "Name": "Despicable Me",
+    "Author": "Jopate",
+    "Description": "I am having a bad bad day...",
     "Version":{
-        "major": 0,
-        "minor": 1
+        "major": 1,
+        "minor": 0
     }
 }
